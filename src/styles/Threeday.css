@@ -12,11 +12,12 @@
 .introduc {
   width: 800px;
   padding: 5px;
+  background-color: white;
 }
 .whattoexpect {
   width: 680px;
   margin-left: 50px;
-  background-color: white;
+  /* background-color: white; */
 }
 
 #whattoexpect {
@@ -49,4 +50,12 @@
 }
 .maincontent {
   display: flex;
+}
+.adventure {
+  margin: 5px;
+  background-color: white;
+  padding: 20px;
+}
+.elephants {
+  margin-top: 50px;
 }

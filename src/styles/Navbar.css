@@ -31,19 +31,9 @@
   margin-left: 20px;
   margin-right: 20px;
 }
-.logo {
-  width: 100px;
-  left: 0%;
-  right: 85.21%;
-  top: 10%;
-  bottom: 2%;
-}
+
 #down {
   color: white;
-}
-.logoimage {
-  margin-top: 5px;
-  height: 90%;
 }
 
 #text {
@@ -55,13 +45,13 @@
   text-align: center;
   overflow-y: hidden;
 }
-img {
+/* img {
   height: 80.0719223022461px;
   width: 201.97543334960938px;
   left: 0px;
   top: 0px;
   border-radius: 0px;
-}
+} */
 
 .main {
   display: flex;
@@ -98,4 +88,16 @@ i {
 }
 #navicon {
   color: white;
+}
+.logoimage {
+  width: 100px;
+  left: 0%;
+  right: 85.21%;
+  top: 10%;
+  bottom: 2%;
+}
+#logoimage {
+  margin-top: 5px;
+  height: 90%;
+  width: 100%;
 }

@@ -4,10 +4,10 @@ import "../styles/Navbar.css";
 function Navbar() {
   return (
     <div className="navbar">
-      <div className="logo">
+      <div className="logoimage">
         <img
           src="https://images.unsplash.com/photo-1563694983011-6f4d90358083?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
-          className="logoimage"
+          id="logoimage"
         />
       </div>
 

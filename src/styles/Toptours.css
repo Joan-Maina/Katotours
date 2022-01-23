@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: -20px;
 }
 .tourcategories {
   display: flex;
@@ -117,9 +118,6 @@ span {
   background-color: white;
   border: 3px solid #ffffff;
   border-radius: 50%;
-  /* opacity: 0.1;
-  border: 3px solid #ffffff;
-  border-radius: 10px; */
 }
 .offerheart {
   display: flex;
@@ -130,6 +128,7 @@ span {
   height: 70px;
 }
 .textone {
+  position: absolute;
   display: flex;
   justify-content: space-between;
 }

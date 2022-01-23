@@ -58,8 +58,8 @@ function Form() {
                 <label>Departing</label>
                 <div className="departing">
                   <input
-                    type="date"
-                    placeholder="Where to?"
+                    type="text"
+                    placeholder={departing}
                     id="input"
                     style={{ border: "none" }}
                     onFocus={(e) => dateFocus(e)}
@@ -151,22 +151,6 @@ function Form() {
           </div>
         </form>
       </div>
-      {/* <DatePicker
-        selected={startDate}
-        selectsStart
-        startDate={startDate}
-        endDate={endDate}
-        onChange={(date) => setStartDate(date)}
-      />
-      <DatePicker
-        selected={startDate}
-        selectsEnd
-        startDate={startDate}
-        endDate={endDate}
-        minDate={startDate}
-        maxDate={startDate}
-        onChange={(date) => setEndDate(date)}
-      /> */}
     </div>
   );
 }

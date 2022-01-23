@@ -81,7 +81,7 @@ function Topoperators() {
           style={{
             border: "2px solid black",
             borderRadius: "50%",
-            height: "fit-content",
+            height: "max-content",
             padding: "10px",
             marginTop: "50px",
           }}

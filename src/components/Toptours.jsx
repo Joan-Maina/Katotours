@@ -39,13 +39,6 @@ function Toptours({ checkmasai, images }) {
           }}
         ></i>
 
-        {/* <i
-          className="fa fa-chevron-left"
-          id="sidearrow"
-          aria-hidden="true"
-          style={{ color: "#C8C8C8", borderColor: "#C8C8C8" }}
-        ></i> */}
-
         <div className="tileone">
           <div className="imagepart">
             <div className="tourimage">

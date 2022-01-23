@@ -1,5 +1,5 @@
 .formandcomments {
-  width: 200px;
+  width: 400px;
   display: flex;
   flex-direction: column;
   margin: 50px 50px;
@@ -9,9 +9,63 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 50px;
+  padding: 20px;
 }
 .commentpaginatio {
   align-items: center;
   display: flex;
   justify-content: space-evenly;
+}
+.ratings {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+}
+#viewprofile {
+  margin-left: 25%;
+  width: fit-content;
+  color: red;
+  border-bottom: 1px solid red;
+}
+#tourreview {
+}
+.maincomment {
+  background-color: white;
+  padding: 20px;
+}
+input {
+  width: fit-content;
+  padding: 10px;
+}
+.offeredby {
+  background-color: white;
+  padding: 10px;
+  margin: 2px;
+}
+.logo {
+  width: 100%;
+  color: grey;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  margin: 2px;
+}
+#logooperators {
+  /* margin-left: 50%; */
+}
+.comment {
+  background-color: #f8fafc;
+  padding: 10px;
+}
+.user {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 300px;
+}
+#usericon {
+  background-color: white;
+  border-radius: 50%;
+  padding: 10px;
 }

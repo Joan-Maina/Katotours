@@ -21,6 +21,7 @@ img {
   height: 414px;
   width: 1366px;
   display: flex;
+  border-bottom: #f6f6f9;
 }
 .imagesgallery {
   display: flex;

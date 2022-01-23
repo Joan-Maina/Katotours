@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 import Gallery from "../components/Gallery";
 import Threeday from "../components/Threeday";
 import Button from "../components/Button";
-
+import "../App.css";
 function Masaimara() {
   const style = {
     marginLeft: "50px",
@@ -12,7 +12,7 @@ function Masaimara() {
     marginBottom: "200px",
   };
   return (
-    <div>
+    <div className="mainmasai">
       <Navbar />
       <Gallery />
       <Threeday />

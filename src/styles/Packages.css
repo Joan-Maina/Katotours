@@ -1,0 +1,60 @@
+.wholepackages {
+  display: flex;
+  /* width: 100%; */
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  width: 1366px;
+  margin-left: -10px;
+}
+.packages {
+  display: flex;
+  justify-content: space-evenly;
+}
+.image {
+  position: absolute;
+  /* background-image: url("https://media.istockphoto.com/photos/you-can-log-into-your-account-worldwide-picture-id501550413"); */
+  height: 250.0001220703125px;
+  width: 310px;
+
+  border-radius: 0px;
+}
+.description {
+  position: relative;
+}
+.package {
+  height: 250.0001220703125px;
+  width: 340px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.packname {
+  height: 17px;
+  width: fit-content;
+  left: 10px;
+  margin-left: 30px;
+  margin-top: 150px;
+  border-radius: nullpx;
+  color: white;
+  background-color: #f3533d;
+  padding: 10px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  overflow-y: hidden;
+}
+.packpackage {
+  margin-left: 30px;
+  margin-top: -20px;
+  background-color: white;
+  width: fit-content;
+  text-align: center;
+  padding: 10px;
+}
+#sidearrow {
+  color: black;
+  margin-top: 150px;
+  /* border: 2px solid black; */
+}

@@ -1,0 +1,52 @@
+.topthree {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 50px;
+}
+.threeday {
+  opacity: 0.5;
+}
+.introduc {
+  width: 800px;
+  padding: 5px;
+}
+.whattoexpect {
+  width: 680px;
+  margin-left: 50px;
+  background-color: white;
+}
+
+#whattoexpect {
+  text-align: left;
+}
+.threeday {
+  background-color: #f5f5fc;
+}
+.elephantimage {
+  width: 100%;
+  height: 200px;
+  overflow-y: hidden;
+  align-items: center;
+  display: flex;
+}
+#gosideleft {
+  position: absolute;
+  background-color: white;
+}
+#gosideright {
+  right: 00px;
+  position: absolute;
+  background-color: white;
+}
+.elephantsmasai {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  overflow-y: hidden;
+}
+.maincontent {
+  display: flex;
+}

@@ -1,0 +1,101 @@
+.navbar {
+  background-color: rgb(5, 49, 5);
+  display: flex;
+  /* justify-content: space-between; */
+  color: white;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 80px;
+  width: 1366px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.text {
+  text-align: center;
+  height: 38px;
+  width: 448px;
+  left: 249px;
+  top: 21px;
+  border-radius: 0px;
+  padding: 10px, 0px, 10px, 0px;
+  font-size: 14px;
+  overflow-y: hidden;
+}
+.main,
+.text {
+  display: flex;
+  justify-content: space-between;
+}
+.navlink {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.logo {
+  width: 100px;
+  left: 0%;
+  right: 85.21%;
+  top: 10%;
+  bottom: 2%;
+}
+#down {
+  color: white;
+}
+.logoimage {
+  margin-top: 5px;
+  height: 90%;
+}
+
+#text {
+  margin: 20px;
+  height: 18px;
+  width: 144px;
+  left: 0px;
+  top: 10px;
+  text-align: center;
+  overflow-y: hidden;
+}
+img {
+  height: 80.0719223022461px;
+  width: 201.97543334960938px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 407px;
+  height: 80px;
+  right: 58.75px;
+  top: 16.45px;
+}
+.usdbottom {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+i {
+  color: white;
+}
+.main {
+  overflow-y: hidden;
+  align-items: center;
+}
+.search,
+.usd,
+.agent,
+.favorites {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  overflow-y: hidden;
+  align-items: center;
+}
+#navicon {
+  color: white;
+}

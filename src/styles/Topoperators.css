@@ -1,0 +1,44 @@
+.operatorsmain {
+  width: 1366px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 10px;
+}
+.operators {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -100px;
+}
+h2 {
+  text-align: center;
+}
+.operator {
+  margin: 0px 20px;
+}
+#starreview {
+  color: #f3533d;
+}
+.viewoperators {
+  margin: 20px;
+}
+.operatorimage {
+  display: flex;
+  flex-direction: column;
+  border: 0.5px solid #c4c4c4;
+  align-items: center;
+}
+#logooperators {
+  color: #c4c4c4;
+  margin: 5px;
+}
+#sidearrow {
+  border: 2px solid black;
+  border-radius: 50%;
+  padding: 10px;
+}
+.operatorimage {
+  height: 180px;
+  width: 250px;
+}

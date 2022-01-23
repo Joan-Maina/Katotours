@@ -39,11 +39,11 @@ function Threeday() {
               <Button style={style} text="YOUR ADVENTURE BEGINS" />
               <div className="adventureimage">
                 <div className="elephantimage">
-                  <i
+                  {/* <i
                     className="fa fa-chevron-left"
                     id="gosideleft"
                     aria-hidden="true"
-                  ></i>
+                  ></i> */}
                   <div className="elephantsmasai">
                     <img
                       src="https://images.unsplash.com/photo-1481464904474-a575a33b44a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
@@ -51,11 +51,11 @@ function Threeday() {
                     />
                   </div>
 
-                  <i
+                  {/* <i
                     className="fa fa-chevron-right"
                     id="gosideright"
                     aria-hidden="true"
-                  ></i>
+                  ></i> */}
                 </div>
               </div>
               <h5>1 Night in Location/Destinatiom</h5>
@@ -82,11 +82,11 @@ function Threeday() {
           <div className="adventure">
             <div className="adventureimage">
               <div className="elephantimage">
-                <i
+                {/* <i
                   className="fa fa-chevron-left"
                   id="gosideleft"
                   aria-hidden="true"
-                ></i>
+                ></i> */}
                 <div className="elephantsmasai">
                   <img
                     src="https://images.unsplash.com/photo-1616128417743-c3a6992a65e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
@@ -94,11 +94,11 @@ function Threeday() {
                   />
                 </div>
 
-                <i
+                {/* <i
                   className="fa fa-chevron-right"
                   id="gosideright"
                   aria-hidden="true"
-                ></i>
+                ></i> */}
               </div>
             </div>
             <h5>1 Night in Location/Destinatiom</h5>
@@ -123,11 +123,11 @@ function Threeday() {
           <div className="adventure">
             <div className="adventureimage">
               <div className="elephantimage">
-                <i
+                {/* <i
                   className="fa fa-chevron-left"
                   id="gosideleft"
                   aria-hidden="true"
-                ></i>
+                ></i> */}
                 <div className="elephantsmasai">
                   <img
                     src="https://images.unsplash.com/photo-1550591853-18e1d18765e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
@@ -135,11 +135,11 @@ function Threeday() {
                   />
                 </div>
 
-                <i
+                {/* <i
                   className="fa fa-chevron-right"
                   id="gosideright"
                   aria-hidden="true"
-                ></i>
+                ></i> */}
               </div>
             </div>
             <h5>1 Night in Location/Destinatiom</h5>
